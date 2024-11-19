@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yousrabelbaki
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning react & node js
+- 🌱 I’m currently learning react js & node js
 - 💞️ I’m looking to collaborate on any projects !
 - 📫 How to reach me email !
 - 😄 Pronouns: SHE.
